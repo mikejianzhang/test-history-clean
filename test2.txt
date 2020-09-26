@@ -5,5 +5,5 @@ apple
 keep
 docter
 away
-username=***REMOVED***
-password=***REMOVED***123
+username=xxxx
+password=xxxx
